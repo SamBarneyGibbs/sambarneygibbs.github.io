@@ -12,4 +12,4 @@ Supreme Court Approval in July 2022 - Marquette Law School - this data comes fro
 # Bar/Column Chart
 ![News Source Consumption](https://user-images.githubusercontent.com/109444712/181667333-bf0661e3-6cf7-4099-abd4-72725591da34.png)
 # Time-Series Chart
-! [Anxiety Between Ages](https://raw.githubusercontent.com/SamBarneyGibbs/sambarneygibbs.github.io/main/J25TimeSeriesChart.png)
+![Anxiety Between Ages](https://raw.githubusercontent.com/SamBarneyGibbs/sambarneygibbs.github.io/main/J25TimeSeriesChart.png)
