@@ -1,4 +1,4 @@
-<img> <img src="(https://github.com/SamBarneyGibbs/sambarneygibbs.github.io/blob/main/headshot1.jpg)" width="200" height="400" />
+<img> <img src="(https://github.com/SamBarneyGibbs/sambarneygibbs.github.io/blob/main/headshot1.jpg?raw=true)" width="200" height="400" />
 # Data Visualization
 Sam's first repository
 ## Hi! My name is Sam Barney-Gibbs. I’ve spent a majority of my life in Southern California, but I was born in New Jersey with my twin sister and raised by two fantastic moms. I like to write across genres, play tennis, cook/bake, and watch an excessive amount of tv. My friends would call me detail-oriented, multifaceted, and compassionate, but I would call myself arguably obssessive, moody, and maybe even a people-pleaser. 
